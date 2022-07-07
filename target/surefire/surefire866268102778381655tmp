@@ -1,0 +1,7 @@
+#surefire
+#Tue Jun 28 13:00:37 CDT 2022
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2 RC\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\A20204357\\OneDrive - Universidad Tecnologica del Peru\\Documents\\NetBeansProjects\\PruebasUnitarias1\\PruebasUnitarias
+localRepository=C\:\\Users\\A20204357\\.m2\\repository
+basedir=C\:\\Users\\A20204357\\OneDrive - Universidad Tecnologica del Peru\\Documents\\NetBeansProjects\\PruebasUnitarias1\\PruebasUnitarias
+test=pe.com.pruebasunitarias.pruebas.OperacionTest
